@@ -1,6 +1,8 @@
 ## Welcome to RankChampion.com - Search Engine Optimization Services
+NOW SERVING THE KING AND PIERCE COUNTY AREA!
 
 The one stop shop for all SEO needs. We work with dozens of companys in a wide variety of industries. Look no further for a dominant SEO strategy.
+
 
 
 
