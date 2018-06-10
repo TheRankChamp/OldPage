@@ -1,8 +1,5 @@
-## Welcome to RankChampion.com - Search Engine Optimization Services
-
-The one stop shop for all SEO needs. We work with dozens of companys in a wide variety of industries. Look no further for a dominant SEO strategy.
-
-<!-- Global site tag (gtag.js) - Google Analytics -->
+<HEAD>
+  <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-120516837-1"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
@@ -11,6 +8,11 @@ The one stop shop for all SEO needs. We work with dozens of companys in a wide v
 
   gtag('config', 'UA-120516837-1');
 </script>
+</HEAD>
+
+## Welcome to RankChampion.com - Search Engine Optimization Services
+
+The one stop shop for all SEO needs. We work with dozens of companys in a wide variety of industries. Look no further for a dominant SEO strategy.
 
 
 
