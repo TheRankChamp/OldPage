@@ -1,8 +1,7 @@
-## Welcome to GitHub Pages
+## Welcome to RankChampion.com - Search Engine Optimization
 
-You can use the [editor on GitHub](https://github.com/TheRankChamp/TheRankChamp.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+The one stop shop for all SEO needs. We work with dozens of companys in a wide variety of industries. Look no further for a dominant SEO strategy.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
